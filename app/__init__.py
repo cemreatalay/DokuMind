@@ -1,0 +1,3 @@
+"""
+DocuMind application package.
+"""

@@ -1,0 +1,11 @@
+﻿.venv/
+.venv313/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+data/chroma/
+data/uploads/
+
+.env
+*.log
