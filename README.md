@@ -34,9 +34,9 @@ PDF → PDF Reader → Chunking → Embedding → ChromaDB → Retrieval → Cha
 
 ## ▶️ Çalıştırma
 
-`powershell
+```powershell
 streamlit run app/web_app.py
-``n
+```
 ## 🔍 Örnek
 
 **Soru:** Staj süresi kaç iş günüdür?
@@ -54,3 +54,4 @@ DokuMind, uzun PDF belgeleri içerisindeki bilgilere doğal dil kullanarak hızl
 **Cemre Atalay**
 
 GitHub: https://github.com/cemreatalay
+
